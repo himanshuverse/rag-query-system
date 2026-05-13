@@ -155,15 +155,7 @@ npm run dev
 
 ---
 
-## My Contribution
 
-- Improved and stabilized backend API for document ingestion and query handling
-- Integrated LLM APIs for generating context-aware responses
-- Debugged and resolved issues in file upload and database connectivity
-- Rebuilt frontend for improved usability and interaction flow
-- Refactored system for better structure and reliability
-
----
 
 ## Notes
 
